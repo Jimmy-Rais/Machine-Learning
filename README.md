@@ -52,5 +52,5 @@ This repository offers several advantages for beginner machine learners:
 
 Clone the repository and start exploring the projects! Feel free to reach out if you have any questions or encounter any difficulties. We're here to help you get started on your machine learning journey.
 
-**Remember:** This is just a starting point. As you gain confidence and expertise, you can expand your repertoire by tackling more complex projects and contributing your own creations to the repository. Let's learn and grow together!
-
+**Email : jimmyrais63@gmail.com**
+**Linkedin : https://www.linkedin.com/in/rais-gachaba-jimmy-833703258** 
